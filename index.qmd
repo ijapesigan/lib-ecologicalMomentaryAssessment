@@ -1,0 +1,10 @@
+---
+title: References
+nocite: |
+  @Shiffman-Stone-Hufford-2008
+  @Shiffman-2009
+  @Smith-Juarascio-2019
+---
+
+::: {#refs}
+:::
